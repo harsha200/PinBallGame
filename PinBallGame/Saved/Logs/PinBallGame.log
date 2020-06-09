@@ -4432,3 +4432,440 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.09-18.27.59:739][581]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/BP_Bumper9193EFD343904BC47BE861AA226A6BBC.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/BP_Bumper.uasset'
 [2020.06.09-18.27.59:768][581]AssetCheck: New page: Asset Save: BP_Bumper
 [2020.06.09-18.27.59:768][581]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper
+[2020.06.09-18.32.50:143][478]LogTemp: Resetting audio stream to device id 
+[2020.06.09-18.32.50:200][478]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-18.32.50:200][478]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-18.32.50:200][478]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-18.32.50:200][478]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-18.32.50:200][478]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-18.32.50:200][478]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-18.32.50:200][478]LogAudioMixer: Display: Channel Order:
+[2020.06.09-18.32.50:200][478]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-18.32.50:200][478]LogAudioMixer: Display: 1: FrontRight
+[2020.06.09-18.32.58:642][499]LogTemp: Resetting audio stream to device id 
+[2020.06.09-18.32.58:829][499]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-18.32.58:829][499]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-18.32.58:829][499]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-18.32.58:829][499]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-18.32.58:829][499]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-18.32.58:829][499]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-18.32.58:829][499]LogAudioMixer: Display: Channel Order:
+[2020.06.09-18.32.58:829][499]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-18.32.58:829][499]LogAudioMixer: Display: 1: FrontRight
+[2020.06.09-19.17.03:839][500]LogTemp: Resetting audio stream to device id 
+[2020.06.09-19.17.04:351][500]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-19.17.04:351][500]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.17.04:351][500]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-19.17.04:351][500]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-19.17.04:351][500]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-19.17.04:351][500]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-19.17.04:351][500]LogAudioMixer: Display: Channel Order:
+[2020.06.09-19.17.04:351][500]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-19.17.04:351][500]LogAudioMixer: Display: 1: FrontRight
+[2020.06.09-19.17.06:635][501]LogTemp: Resetting audio stream to device id 
+[2020.06.09-19.17.06:727][501]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-19.17.06:727][501]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.17.06:727][501]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-19.17.06:727][501]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-19.17.06:727][501]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-19.17.06:727][501]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-19.17.06:727][501]LogAudioMixer: Display: Channel Order:
+[2020.06.09-19.17.06:727][501]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-19.17.06:727][501]LogAudioMixer: Display: 1: FrontRight
+[2020.06.09-19.17.07:191][502]LogHttp: Warning: 0000023ADCE2D1C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B156AC62E-416E-6270-4BB7-CD8ADF1FE57F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=4cd6d99842e677771275419d4b249b66%7Cbba3ad13918c49ee957396da86c65e16%7Ccaf72d76-b423-4547-89a5-9254bfae9947&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.06.09-19.17.07:191][502]LogHttp: Warning: 0000023ADCE2D1C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.06.09-19.17.07:191][502]LogHttp: Warning: 0000023ADCE2D1C0: libcurl info message cache 0 (Connection 35 seems to be dead!)
+[2020.06.09-19.17.07:192][502]LogHttp: Warning: 0000023ADCE2D1C0: libcurl info message cache 1 (Closing connection 35)
+[2020.06.09-19.17.07:192][502]LogHttp: Warning: 0000023ADCE2D1C0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.06.09-19.17.07:192][502]LogHttp: Warning: 0000023ADCE2D1C0: libcurl info message cache 3 (Closing connection 36)
+[2020.06.09-19.17.07:204][502]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B156AC62E-416E-6270-4BB7-CD8ADF1FE57F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=4cd6d99842e677771275419d4b249b66%7Cbba3ad13918c49ee957396da86c65e16%7Ccaf72d76-b423-4547-89a5-9254bfae9947&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.06.09-19.17.16:078][520]LogUObjectHash: Compacting FUObjectHashTables data took  34.81ms
+[2020.06.09-19.17.16:616][520]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Main_Auto45174181C470EA887EF8346B65025320C.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Maps/Main_Auto4.umap'
+[2020.06.09-19.17.16:658][520]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 1.117
+[2020.06.09-19.17.16:659][520]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.117
+[2020.06.09-19.18.28:785][258]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/PinBallHUD.PinBallHUD
+[2020.06.09-19.18.33:573][300]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/BallSphereBED9F16342CE9375445A1783B87BF9E4.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Assets/PinBall/BallSphere.uasset'
+[2020.06.09-19.18.33:609][300]AssetCheck: New page: Asset Save: BallSphere
+[2020.06.09-19.18.33:609][300]LogContentValidation: Display: Validating StaticMesh /Game/Assets/PinBall/BallSphere.BallSphere
+[2020.06.09-19.18.34:846][332]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.18.34:847][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.19.07:861][363]BlueprintLog: New page: Compile BP_Ball
+[2020.06.09-19.19.09:540][363]LogUObjectHash: Compacting FUObjectHashTables data took  14.62ms
+[2020.06.09-19.19.12:046][403]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.19.12:046][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.19.15:538][461]BlueprintLog: New page: Compile BP_Plunger
+[2020.06.09-19.19.16:645][461]LogUObjectHash: Compacting FUObjectHashTables data took  25.28ms
+[2020.06.09-19.19.18:117][471]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/BP_Plunger3E7C8E5B4DBE5109F6AF48B4217FE933.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/BP_Plunger.uasset'
+[2020.06.09-19.19.18:152][471]AssetCheck: New page: Asset Save: BP_Plunger
+[2020.06.09-19.19.18:152][471]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Plunger.BP_Plunger
+[2020.06.09-19.19.18:864][485]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.06.09-19.19.18:864][485]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.19.18:864][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.19.21:529][518]BlueprintLog: New page: Compile Flipper
+[2020.06.09-19.19.22:263][518]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2020.06.09-19.19.22:725][518]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Flipper429DE14A42C1A6E322676CA4424EB585.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/Flipper.uasset'
+[2020.06.09-19.19.22:769][518]AssetCheck: New page: Asset Save: Flipper
+[2020.06.09-19.19.22:769][518]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Flipper.Flipper
+[2020.06.09-19.19.27:375][532]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.06.09-19.19.27:375][532]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.19.27:375][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.19.29:717][564]BlueprintLog: New page: Compile BP_Bumper
+[2020.06.09-19.19.30:267][564]LogUObjectHash: Compacting FUObjectHashTables data took  10.50ms
+[2020.06.09-19.19.30:902][565]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/BP_BumperC3D646114FF0A5B0FB29E2914718DDFB.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/BP_Bumper.uasset'
+[2020.06.09-19.19.30:926][565]AssetCheck: New page: Asset Save: BP_Bumper
+[2020.06.09-19.19.30:926][565]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper
+[2020.06.09-19.19.31:987][579]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.06.09-19.19.31:987][579]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.19.31:987][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.19.35:083][626]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/SM_PlungerDFEF946A45524768FB8794A878EDD55F.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Assets/Plunger/SM_Plunger.uasset'
+[2020.06.09-19.19.35:128][626]AssetCheck: New page: Asset Save: SM_Plunger
+[2020.06.09-19.19.35:128][626]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Plunger/SM_Plunger.SM_Plunger
+[2020.06.09-19.19.36:172][655]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.19.36:172][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.19.57:910][705]BlueprintLog: New page: Compile PinBallGameMode
+[2020.06.09-19.19.58:536][705]LogUObjectHash: Compacting FUObjectHashTables data took  11.14ms
+[2020.06.09-19.19.59:077][705]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/PinBallGameMode7B54D6EB4D111BC25E9A5A8590BCE20C.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/PinBallGameMode.uasset'
+[2020.06.09-19.19.59:094][705]AssetCheck: New page: Asset Save: PinBallGameMode
+[2020.06.09-19.19.59:094][705]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinBallGameMode.PinBallGameMode
+[2020.06.09-19.19.59:781][719]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/PinBallGameMode1015F36C46D715425B87B8A95A54DD45.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/PinBallGameMode.uasset'
+[2020.06.09-19.19.59:839][719]AssetCheck: New page: Asset Save: PinBallGameMode
+[2020.06.09-19.19.59:839][719]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinBallGameMode.PinBallGameMode
+[2020.06.09-19.20.00:545][736]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.06.09-19.20.00:545][736]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.20.00:546][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.20.03:555][785]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Flipper10C117BF4F029196EA8E88B827ED8C8F.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Assets/Flipper/Flipper.uasset'
+[2020.06.09-19.20.03:583][785]AssetCheck: New page: Asset Save: Flipper
+[2020.06.09-19.20.03:583][785]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Flipper/Flipper.Flipper
+[2020.06.09-19.20.04:732][810]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.20.04:732][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.24.08:675][481]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2020.06.09-19.29.21:466][ 55]LogUObjectHash: Compacting FUObjectHashTables data took  23.96ms
+[2020.06.09-19.29.21:801][ 55]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Main_Auto5B131064540EF19D23FF2669CAD49261A.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Maps/Main_Auto5.umap'
+[2020.06.09-19.29.21:805][ 55]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 1.027
+[2020.06.09-19.29.21:805][ 55]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.027
+[2020.06.09-19.29.21:807][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PinBallHUD] ([1] browsable assets)...
+[2020.06.09-19.29.21:807][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PinBallHUD]
+[2020.06.09-19.29.21:830][ 55]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/PinBallHUD_Auto58499ABEB46F0BEAD4B1D18ACD1957A7A.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/PinBallHUD_Auto5.uasset'
+[2020.06.09-19.29.21:832][ 55]LogFileHelpers: Auto-saving content packages took 0.027
+[2020.06.09-19.30.18:961][302]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PinBallPlayerController.PinBallPlayerController
+[2020.06.09-19.31.41:647][ 36]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.06.09-19.32.09:637][506]BlueprintLog: New page: Compile PinBallPlayerController
+[2020.06.09-19.32.10:234][506]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2020.06.09-19.32.11:259][515]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/PinBallPlayerController158A87A64CC611B51820EB8740D02C2E.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/PinBallPlayerController.uasset'
+[2020.06.09-19.32.11:297][515]AssetCheck: New page: Asset Save: PinBallPlayerController
+[2020.06.09-19.32.11:297][515]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinBallPlayerController.PinBallPlayerController
+[2020.06.09-19.32.14:469][602]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.09-19.32.14:516][602]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.06.09-19.32.14:525][602]LogPlayLevel: [PlayLevel] Compiling PinBallHUD before play...
+[2020.06.09-19.32.14:848][602]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2020.06.09-19.32.14:855][602]LogPlayLevel: PlayLevel: Blueprint regeneration took 339 ms (1 blueprints)
+[2020.06.09-19.32.14:865][602]PIE: New page: PIE session: Main (Jun 9, 2020, 9:32:14 PM)
+[2020.06.09-19.32.14:869][602]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.09-19.32.14:898][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028603s)
+[2020.06.09-19.32.14:900][602]LogAIModule: Creating AISystem for world Main
+[2020.06.09-19.32.14:901][602]LogPlayLevel: PIE: World Init took: (0.002899s)
+[2020.06.09-19.32.14:902][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.032679s)
+[2020.06.09-19.32.14:948][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.06.09-19.32.14:953][602]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.09-19.32.14:953][602]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.09-19.32.14:953][602]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.09-19.32.14:953][602]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.09-19.32.14:953][602]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.09-19.32.14:953][602]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.09-19.32.14:954][602]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.09-19.32.14:954][602]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.09-19.32.14:954][602]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.09-19.32.14:954][602]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.09-19.32.14:982][602]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-19.32.14:982][602]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.32.14:982][602]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-19.32.14:982][602]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-19.32.14:982][602]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-19.32.14:982][602]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-19.32.14:982][602]LogAudioMixer: Display: Channel Order:
+[2020.06.09-19.32.14:982][602]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-19.32.14:982][602]LogAudioMixer: Display: 1: FrontRight
+[2020.06.09-19.32.15:146][602]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.32.15:177][602]LogInit: FAudioDevice initialized.
+[2020.06.09-19.32.15:276][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.32.15:279][602]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.09-19.32.15:292][602]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.06.09-20.32.15
+[2020.06.09-19.32.15:295][602]LogWorld: Bringing up level for play took: 0.009895
+[2020.06.09-19.32.15:299][602]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2020.06.09-19.32.15:342][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.32.15:480][602]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.777
+[2020.06.09-19.32.37:233][928]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.32.37:233][928]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.32.37:237][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.32.37:238][928]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.09-19.32.37:286][928]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.09-19.32.37:373][928]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.32.37:374][928]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.32.37:376][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.32.37:398][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.09-19.32.37:412][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.32.37:485][928]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.32.37:510][928]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.06.09-19.32.37:547][929]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2020.06.09-19.32.41:927][ 24]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2020.06.09-19.32.51:109][343]BlueprintLog: New page: Compile BP_Ball
+[2020.06.09-19.32.51:456][343]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.06.09-19.32.52:343][359]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/BP_BallF31D30554306539C362C67BFF7728727.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/BP_Ball.uasset'
+[2020.06.09-19.32.52:379][359]AssetCheck: New page: Asset Save: BP_Ball
+[2020.06.09-19.32.52:379][359]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2020.06.09-19.32.55:908][514]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.09-19.32.55:938][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.09-19.32.55:939][514]PIE: New page: PIE session: Main (Jun 9, 2020, 9:32:55 PM)
+[2020.06.09-19.32.55:939][514]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.09-19.32.55:948][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008722s)
+[2020.06.09-19.32.55:949][514]LogAIModule: Creating AISystem for world Main
+[2020.06.09-19.32.55:949][514]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2020.06.09-19.32.55:949][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.010265s)
+[2020.06.09-19.32.56:007][514]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2020.06.09-19.32.56:008][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.09-19.32.56:008][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.09-19.32.56:008][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.09-19.32.56:008][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.09-19.32.56:008][514]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.09-19.32.56:008][514]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.09-19.32.56:008][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.09-19.32.56:008][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.09-19.32.56:009][514]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.09-19.32.56:009][514]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.09-19.32.56:026][514]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-19.32.56:026][514]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.32.56:026][514]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-19.32.56:026][514]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-19.32.56:026][514]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-19.32.56:026][514]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-19.32.56:026][514]LogAudioMixer: Display: Channel Order:
+[2020.06.09-19.32.56:026][514]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-19.32.56:026][514]LogAudioMixer: Display: 1: FrontRight
+[2020.06.09-19.32.56:170][514]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.32.56:177][514]LogInit: FAudioDevice initialized.
+[2020.06.09-19.32.56:256][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.32.56:257][514]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.09-19.32.56:263][514]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.06.09-20.32.56
+[2020.06.09-19.32.56:264][514]LogWorld: Bringing up level for play took: 0.005085
+[2020.06.09-19.32.56:264][514]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2020.06.09-19.32.56:270][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.32.56:277][514]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.576
+[2020.06.09-19.34.16:823][928]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.34.16:823][928]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.34.16:823][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.34.16:823][928]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.09-19.34.16:840][928]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.09-19.34.16:895][928]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.34.16:895][928]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.34.16:896][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.34.16:906][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.09-19.34.16:915][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.34.16:966][928]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.34.16:984][928]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.06.09-19.34.17:017][929]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2020.06.09-19.34.38:933][496]BlueprintLog: New page: Compile BP_Ball
+[2020.06.09-19.34.39:271][496]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.06.09-19.34.40:933][552]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.09-19.34.40:965][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.09-19.34.40:966][552]PIE: New page: PIE session: Main (Jun 9, 2020, 9:34:40 PM)
+[2020.06.09-19.34.40:967][552]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.09-19.34.40:975][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008234s)
+[2020.06.09-19.34.40:977][552]LogAIModule: Creating AISystem for world Main
+[2020.06.09-19.34.40:977][552]LogPlayLevel: PIE: World Init took: (0.001541s)
+[2020.06.09-19.34.40:977][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.010018s)
+[2020.06.09-19.34.41:033][552]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.06.09-19.34.41:033][552]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.09-19.34.41:033][552]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.09-19.34.41:034][552]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.09-19.34.41:034][552]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.09-19.34.41:034][552]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.09-19.34.41:034][552]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.09-19.34.41:034][552]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.09-19.34.41:034][552]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.09-19.34.41:034][552]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.09-19.34.41:034][552]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.09-19.34.41:052][552]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-19.34.41:052][552]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.34.41:052][552]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-19.34.41:052][552]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-19.34.41:052][552]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-19.34.41:052][552]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-19.34.41:052][552]LogAudioMixer: Display: Channel Order:
+[2020.06.09-19.34.41:052][552]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-19.34.41:052][552]LogAudioMixer: Display: 1: FrontRight
+[2020.06.09-19.34.41:158][552]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.34.41:163][552]LogInit: FAudioDevice initialized.
+[2020.06.09-19.34.41:228][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.34.41:228][552]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.09-19.34.41:230][552]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.06.09-20.34.41
+[2020.06.09-19.34.41:230][552]LogWorld: Bringing up level for play took: 0.001698
+[2020.06.09-19.34.41:231][552]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2020.06.09-19.34.41:235][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.34.41:236][552]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.465
+[2020.06.09-19.34.45:799][686]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.34.45:799][686]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.34.45:799][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.34.45:799][686]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.09-19.34.45:837][686]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.09-19.34.45:869][686]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.34.45:869][686]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.34.45:870][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.34.45:882][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.09-19.34.45:889][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.34.45:937][686]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.34.45:949][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.06.09-19.34.45:979][687]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2020.06.09-19.34.56:428][ 35]BlueprintLog: New page: Compile BP_Ball
+[2020.06.09-19.34.56:742][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.06.09-19.34.58:478][121]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.09-19.34.58:508][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.09-19.34.58:509][121]PIE: New page: PIE session: Main (Jun 9, 2020, 9:34:58 PM)
+[2020.06.09-19.34.58:509][121]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.09-19.34.58:518][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008693s)
+[2020.06.09-19.34.58:519][121]LogAIModule: Creating AISystem for world Main
+[2020.06.09-19.34.58:520][121]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2020.06.09-19.34.58:520][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.010186s)
+[2020.06.09-19.34.58:580][121]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.06.09-19.34.58:580][121]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.09-19.34.58:580][121]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.09-19.34.58:580][121]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.09-19.34.58:580][121]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.09-19.34.58:580][121]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.09-19.34.58:580][121]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.09-19.34.58:580][121]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.09-19.34.58:580][121]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.09-19.34.58:581][121]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.09-19.34.58:581][121]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.09-19.34.58:597][121]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-19.34.58:597][121]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.34.58:597][121]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-19.34.58:597][121]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-19.34.58:597][121]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-19.34.58:597][121]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-19.34.58:597][121]LogAudioMixer: Display: Channel Order:
+[2020.06.09-19.34.58:597][121]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-19.34.58:597][121]LogAudioMixer: Display: 1: FrontRight
+[2020.06.09-19.34.58:705][121]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.34.58:713][121]LogInit: FAudioDevice initialized.
+[2020.06.09-19.34.58:800][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.34.58:801][121]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.09-19.34.58:807][121]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.06.09-20.34.58
+[2020.06.09-19.34.58:809][121]LogWorld: Bringing up level for play took: 0.004993
+[2020.06.09-19.34.58:809][121]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2020.06.09-19.34.58:820][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.34.58:827][121]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.125
+[2020.06.09-19.35.14:476][588]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.35.14:476][588]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.35.14:476][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.35.14:476][588]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.09-19.35.14:495][588]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.09-19.35.14:546][588]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.35.14:546][588]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.35.14:546][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.35.14:559][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.09-19.35.14:568][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.35.14:619][588]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.35.14:633][588]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.06.09-19.35.14:664][589]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2020.06.09-19.35.22:989][ 18]BlueprintLog: New page: Compile BP_Ball
+[2020.06.09-19.35.23:316][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.06.09-19.35.25:338][ 97]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.09-19.35.25:369][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.09-19.35.25:369][ 97]PIE: New page: PIE session: Main (Jun 9, 2020, 9:35:25 PM)
+[2020.06.09-19.35.25:370][ 97]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.09-19.35.25:380][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010453s)
+[2020.06.09-19.35.25:381][ 97]LogAIModule: Creating AISystem for world Main
+[2020.06.09-19.35.25:382][ 97]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2020.06.09-19.35.25:382][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.011928s)
+[2020.06.09-19.35.25:439][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.06.09-19.35.25:439][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.09-19.35.25:439][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.09-19.35.25:439][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.09-19.35.25:439][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.09-19.35.25:439][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.09-19.35.25:439][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.09-19.35.25:439][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.09-19.35.25:439][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.09-19.35.25:440][ 97]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.09-19.35.25:440][ 97]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.09-19.35.25:456][ 97]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-19.35.25:456][ 97]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.35.25:457][ 97]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-19.35.25:457][ 97]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-19.35.25:457][ 97]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-19.35.25:457][ 97]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-19.35.25:457][ 97]LogAudioMixer: Display: Channel Order:
+[2020.06.09-19.35.25:457][ 97]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-19.35.25:457][ 97]LogAudioMixer: Display: 1: FrontRight
+[2020.06.09-19.35.25:593][ 97]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.35.25:597][ 97]LogInit: FAudioDevice initialized.
+[2020.06.09-19.35.25:689][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.35.25:690][ 97]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.09-19.35.25:695][ 97]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.06.09-20.35.25
+[2020.06.09-19.35.25:696][ 97]LogWorld: Bringing up level for play took: 0.003641
+[2020.06.09-19.35.25:696][ 97]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2020.06.09-19.35.25:703][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.35.25:709][ 97]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.007
+[2020.06.09-19.35.29:589][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.35.29:589][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.35.29:589][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.35.29:589][212]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.09-19.35.29:606][212]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.09-19.35.29:659][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.35.29:660][212]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.35.29:660][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.35.29:667][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.09-19.35.29:675][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.35.29:724][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.35.29:737][212]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.06.09-19.35.29:766][213]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2020.06.09-19.35.31:053][272]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.09-19.35.31:085][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.09-19.35.31:086][272]PIE: New page: PIE session: Main (Jun 9, 2020, 9:35:31 PM)
+[2020.06.09-19.35.31:086][272]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.09-19.35.31:094][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008117s)
+[2020.06.09-19.35.31:095][272]LogAIModule: Creating AISystem for world Main
+[2020.06.09-19.35.31:096][272]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2020.06.09-19.35.31:096][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.009907s)
+[2020.06.09-19.35.31:152][272]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.06.09-19.35.31:152][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.09-19.35.31:152][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.09-19.35.31:152][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.09-19.35.31:152][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.09-19.35.31:152][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.09-19.35.31:152][272]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.09-19.35.31:152][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.09-19.35.31:152][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.09-19.35.31:153][272]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.09-19.35.31:153][272]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.09-19.35.31:169][272]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-19.35.31:169][272]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.35.31:169][272]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-19.35.31:169][272]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-19.35.31:169][272]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-19.35.31:169][272]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-19.35.31:169][272]LogAudioMixer: Display: Channel Order:
+[2020.06.09-19.35.31:169][272]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-19.35.31:169][272]LogAudioMixer: Display: 1: FrontRight
+[2020.06.09-19.35.31:331][272]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.09-19.35.31:337][272]LogInit: FAudioDevice initialized.
+[2020.06.09-19.35.31:423][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.35.31:424][272]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.09-19.35.31:429][272]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.06.09-20.35.31
+[2020.06.09-19.35.31:430][272]LogWorld: Bringing up level for play took: 0.003916
+[2020.06.09-19.35.31:431][272]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2020.06.09-19.35.31:442][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.35.31:448][272]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.254
+[2020.06.09-19.36.51:403][668]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.36.51:403][668]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.36.51:403][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-19.36.51:403][668]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.09-19.36.51:419][668]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.09-19.36.51:474][668]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.36.51:474][668]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-19.36.51:474][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.36.51:484][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.09-19.36.51:494][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.09-19.36.51:543][668]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.09-19.36.51:557][668]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.06.09-19.36.51:587][669]LogPlayLevel: Display: Destroying online subsystem :Context_92
