@@ -4869,3 +4869,118 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.09-19.36.51:543][668]LogAudioMixer: Display: No commands were queued while flushing the source manager.
 [2020.06.09-19.36.51:557][668]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
 [2020.06.09-19.36.51:587][669]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2020.06.09-19.42.51:986][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.06.09-19.42.51:988][315]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.103
+[2020.06.09-19.42.51:993][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Ball] ([1] browsable assets)...
+[2020.06.09-19.42.52:069][315]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Ball.BP_Ball]
+[2020.06.09-19.42.52:069][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ball]
+[2020.06.09-19.42.52:202][315]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/BP_Ball_Auto65C1B92484AA8D1C8919929AFC21E39EB.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/BP_Ball_Auto6.uasset'
+[2020.06.09-19.42.52:203][315]LogFileHelpers: Auto-saving content packages took 0.213
+[2020.06.09-19.43.42:985][ 70]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PinBallGameMode.PinBallGameMode
+[2020.06.09-19.44.22:784][146]LogSlate: Took 0.003890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.06.09-19.44.32:159][282]BlueprintLog: New page: Compile PinBallGameMode
+[2020.06.09-19.44.32:518][282]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2020.06.09-19.45.57:402][238]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.06.09-19.46.03:379][238]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.06.09-19.49.59:545][762]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/HighScoreStructure.HighScoreStructure
+[2020.06.09-19.50.30:407][142]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreStructureD062F1F743BCE37ABBF3E18CEFEFB670.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/HighScoreStructure.uasset'
+[2020.06.09-19.50.31:233][142]AssetCheck: New page: Asset Save: HighScoreStructure
+[2020.06.09-19.50.31:233][142]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/HighScoreStructure.HighScoreStructure
+[2020.06.09-19.50.48:816][368]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/HighScoreStructure.HighScoreStructure
+[2020.06.09-19.50.55:931][623]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/HighScoreSave.HighScoreSave
+[2020.06.09-19.52.53:254][986]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2020.06.09-19.52.53:258][986]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.102
+[2020.06.09-19.52.53:259][986]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PinBallGameMode] ([1] browsable assets)...
+[2020.06.09-19.52.53:259][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PinBallGameMode]
+[2020.06.09-19.52.53:307][986]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/PinBallGameMode_Auto73E6E8D1145634D3BF65F1496C06C3447.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/PinBallGameMode_Auto7.uasset'
+[2020.06.09-19.52.53:308][986]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PinBallHUD] ([1] browsable assets)...
+[2020.06.09-19.52.53:308][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PinBallHUD]
+[2020.06.09-19.52.53:324][986]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/PinBallHUD_Auto719A3E07F45F7448AC47CDBAB4B64E8B0.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/PinBallHUD_Auto7.uasset'
+[2020.06.09-19.52.53:326][986]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighScoreSave] ([1] browsable assets)...
+[2020.06.09-19.52.53:326][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreSave]
+[2020.06.09-19.52.53:331][986]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreSave_Auto7F92846D743D96070D9061CB77C678FB8.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/HighScoreSave_Auto7.uasset'
+[2020.06.09-19.52.53:331][986]LogFileHelpers: Auto-saving content packages took 0.072
+[2020.06.09-19.54.37:297][ 64]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.06.09-19.54.40:412][153]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.06.09-19.54.40:467][153]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.06.09-20.04.20:359][763]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2020.06.09-20.04.20:368][763]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.110
+[2020.06.09-20.04.20:368][763]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighScoreSave] ([1] browsable assets)...
+[2020.06.09-20.04.20:369][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreSave]
+[2020.06.09-20.04.20:386][763]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreSave_Auto89A1421E9479A75EE482F2F8CD74298DC.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/HighScoreSave_Auto8.uasset'
+[2020.06.09-20.04.20:387][763]LogFileHelpers: Auto-saving content packages took 0.019
+[2020.06.09-20.04.25:732][779]LogTemp: Resetting audio stream to device id 
+[2020.06.09-20.04.25:755][779]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-20.04.25:755][779]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-20.04.25:755][779]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-20.04.25:755][779]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-20.04.25:755][779]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-20.04.25:755][779]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-20.04.25:755][779]LogAudioMixer: Display: Channel Order:
+[2020.06.09-20.04.25:755][779]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-20.04.25:755][779]LogAudioMixer: Display: 1: FrontRight
+[2020.06.09-23.01.37:470][802]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.09-23.01.37:515][802]LogTemp: Resetting audio stream to device id 
+[2020.06.09-23.01.37:607][802]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-23.01.37:607][802]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-23.01.37:607][802]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-23.01.37:607][802]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-23.01.37:607][802]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-23.01.37:607][802]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-23.01.37:607][802]LogAudioMixer: Display: Channel Order:
+[2020.06.09-23.01.37:607][802]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-23.01.37:607][802]LogAudioMixer: Display: 1: FrontRight
+[2020.06.09-23.01.39:212][803]LogHttp: Warning: 0000023AB4B2B9C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B156AC62E-416E-6270-4BB7-CD8ADF1FE57F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=4cd6d99842e677771275419d4b249b66%7Cbba3ad13918c49ee957396da86c65e16%7Ccaf72d76-b423-4547-89a5-9254bfae9947&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.06.09-23.01.39:232][803]LogHttp: Warning: 0000023AB4B2B9C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.06.09-23.01.39:232][803]LogHttp: Warning: 0000023AB4B2B9C0: libcurl info message cache 0 (Connection 54 seems to be dead!)
+[2020.06.09-23.01.39:232][803]LogHttp: Warning: 0000023AB4B2B9C0: libcurl info message cache 1 (Closing connection 54)
+[2020.06.09-23.01.39:232][803]LogHttp: Warning: 0000023AB4B2B9C0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.06.09-23.01.39:232][803]LogHttp: Warning: 0000023AB4B2B9C0: libcurl info message cache 3 (Closing connection 55)
+[2020.06.09-23.01.39:368][803]LogTemp: Resetting audio stream to device id 
+[2020.06.09-23.01.40:662][803]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-23.01.40:662][803]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-23.01.40:662][803]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-23.01.40:663][803]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-23.01.40:663][803]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-23.01.40:663][803]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-23.01.40:663][803]LogAudioMixer: Display: Channel Order:
+[2020.06.09-23.01.40:663][803]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-23.01.40:663][803]LogAudioMixer: Display: 1: FrontRight
+[2020.06.09-23.01.41:692][804]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B156AC62E-416E-6270-4BB7-CD8ADF1FE57F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=4cd6d99842e677771275419d4b249b66%7Cbba3ad13918c49ee957396da86c65e16%7Ccaf72d76-b423-4547-89a5-9254bfae9947&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.06.09-23.01.41:715][804]LogTemp: Resetting audio stream to device id 
+[2020.06.09-23.01.41:855][804]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.09-23.01.41:855][804]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.09-23.01.41:855][804]LogAudioMixer: Display: Is Default: Yes
+[2020.06.09-23.01.41:855][804]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.09-23.01.41:855][804]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.09-23.01.41:855][804]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.09-23.01.41:855][804]LogAudioMixer: Display: Channel Order:
+[2020.06.09-23.01.41:855][804]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.09-23.01.41:855][804]LogAudioMixer: Display: 1: FrontRight
+[2020.06.10-12.49.06:832][805]LogTemp: Resetting audio stream to device id 
+[2020.06.10-12.49.10:581][805]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.10-12.49.10:586][805]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.10-12.49.10:586][805]LogAudioMixer: Display: Is Default: Yes
+[2020.06.10-12.49.10:586][805]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.10-12.49.10:586][805]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.10-12.49.10:586][805]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.10-12.49.10:587][805]LogAudioMixer: Display: Channel Order:
+[2020.06.10-12.49.10:587][805]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.10-12.49.10:587][805]LogAudioMixer: Display: 1: FrontRight
+[2020.06.10-12.49.10:989][806]LogTemp: Resetting audio stream to device id 
+[2020.06.10-12.49.11:093][806]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.10-12.49.11:093][806]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.10-12.49.11:093][806]LogAudioMixer: Display: Is Default: Yes
+[2020.06.10-12.49.11:093][806]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.10-12.49.11:093][806]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.10-12.49.11:093][806]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.10-12.49.11:093][806]LogAudioMixer: Display: Channel Order:
+[2020.06.10-12.49.11:093][806]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.10-12.49.11:093][806]LogAudioMixer: Display: 1: FrontRight
+[2020.06.10-12.59.11:557][711]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2020.06.10-13.02.59:661][229]LogUObjectHash: Compacting FUObjectHashTables data took  39.17ms
+[2020.06.10-13.02.59:668][229]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 1.008
+[2020.06.10-13.02.59:673][229]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighScoreSave] ([1] browsable assets)...
+[2020.06.10-13.02.59:673][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreSave]
+[2020.06.10-13.02.59:738][229]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreSave_Auto96B5B2E56468C913D150C32B3776E3C99.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/HighScoreSave_Auto9.uasset'
+[2020.06.10-13.02.59:750][229]LogFileHelpers: Auto-saving content packages took 0.080
