@@ -4984,3 +4984,43 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-13.02.59:673][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreSave]
 [2020.06.10-13.02.59:738][229]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreSave_Auto96B5B2E56468C913D150C32B3776E3C99.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/HighScoreSave_Auto9.uasset'
 [2020.06.10-13.02.59:750][229]LogFileHelpers: Auto-saving content packages took 0.080
+[2020.06.10-13.13.00:354][387]LogUObjectHash: Compacting FUObjectHashTables data took   8.06ms
+[2020.06.10-13.13.00:357][387]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.111
+[2020.06.10-13.13.00:359][387]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PinBallGameMode] ([1] browsable assets)...
+[2020.06.10-13.13.00:359][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PinBallGameMode]
+[2020.06.10-13.13.00:490][387]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/PinBallGameMode_Auto0F5835041463C69015CE8B2AA05E3741D.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/PinBallGameMode_Auto0.uasset'
+[2020.06.10-13.13.00:492][387]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighScoreSave] ([1] browsable assets)...
+[2020.06.10-13.13.00:492][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreSave]
+[2020.06.10-13.13.00:525][387]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreSave_Auto0D4BC67BB44B49F6E0281FFA2474CEE2D.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/HighScoreSave_Auto0.uasset'
+[2020.06.10-13.13.00:527][387]LogFileHelpers: Auto-saving content packages took 0.168
+[2020.06.10-13.33.34:091][231]BlueprintLog: New page: Compile PinBallGameMode
+[2020.06.10-13.33.35:169][231]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2020.06.10-13.34.11:150][489]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.06.10-13.34.11:151][489]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.110
+[2020.06.10-13.34.11:152][489]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PinBallGameMode] ([1] browsable assets)...
+[2020.06.10-13.34.11:152][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PinBallGameMode]
+[2020.06.10-13.34.11:213][489]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/PinBallGameMode_Auto1C45C8D0D49C4338A20EE298B3CFA5D7C.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/PinBallGameMode_Auto1.uasset'
+[2020.06.10-13.34.11:215][489]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PinBallHUD] ([1] browsable assets)...
+[2020.06.10-13.34.11:215][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PinBallHUD]
+[2020.06.10-13.34.11:238][489]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/PinBallHUD_Auto19CBCC94E40B65EE0B70DEB8E7DCB56BE.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/PinBallHUD_Auto1.uasset'
+[2020.06.10-13.34.11:240][489]LogFileHelpers: Auto-saving content packages took 0.088
+[2020.06.10-13.36.40:364][621]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.06.10-13.45.35:090][762]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2020.06.10-13.45.35:093][762]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.105
+[2020.06.10-13.45.35:095][762]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PinBallGameMode] ([1] browsable assets)...
+[2020.06.10-13.45.35:095][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PinBallGameMode]
+[2020.06.10-13.45.35:147][762]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/PinBallGameMode_Auto22EEF41184F3AD1D67FC2459A44B64C49.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/PinBallGameMode_Auto2.uasset'
+[2020.06.10-13.45.35:149][762]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighScoreSave] ([1] browsable assets)...
+[2020.06.10-13.45.35:149][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreSave]
+[2020.06.10-13.45.35:191][762]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreSave_Auto2B93B7D8A498B657E3E370185EBEBD19B.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/HighScoreSave_Auto2.uasset'
+[2020.06.10-13.45.35:192][762]LogFileHelpers: Auto-saving content packages took 0.098
+[2020.06.10-13.47.25:810][323]BlueprintLog: New page: Compile HighScoreSave
+[2020.06.10-13.47.25:914][323]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.06.10-13.47.27:249][339]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreSaveC5443C694D95E9B7F4D3FB8ADED5528F.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/HighScoreSave.uasset'
+[2020.06.10-13.47.28:245][339]AssetCheck: New page: Asset Save: HighScoreSave
+[2020.06.10-13.47.28:245][339]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HighScoreSave.HighScoreSave
+[2020.06.10-13.48.47:440][446]BlueprintLog: New page: Compile PinBallGameMode
+[2020.06.10-13.48.47:869][446]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2020.06.10-13.48.48:744][455]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/PinBallGameMode4E8AC0EC467596AF0BA4218EB812ED0F.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/PinBallGameMode.uasset'
+[2020.06.10-13.48.48:827][455]AssetCheck: New page: Asset Save: PinBallGameMode
+[2020.06.10-13.48.48:827][455]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinBallGameMode.PinBallGameMode
