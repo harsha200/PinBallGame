@@ -5603,3 +5603,303 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.16-23.30.03:411][502]LogAudioMixer: Display: No commands were queued while flushing the source manager.
 [2020.06.16-23.30.03:422][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
 [2020.06.16-23.30.03:435][503]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.06.16-23.34.07:405][563]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 ../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/UE4Assets/PinballAssets/PinballAssets/LeagueGothicFont/LeagueGothic-CondensedItalic.otf)
+[2020.06.16-23.34.14:068][563]LogSlate: Window 'Font Face Import Options' being destroyed
+[2020.06.16-23.34.14:083][563]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.06.16-23.34.14:090][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.16-23.34.14:160][563]LogSlate: Took 0.046778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.16-23.34.14:188][563]LogSlate: Took 0.001852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.16-23.34.14:191][563]LogSlate: Took 0.002590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.16-23.34.14:205][563]LogSlate: Took 0.001581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.16-23.34.14:223][563]LogSlate: Took 0.002502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.16-23.34.40:862][689]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.06.16-23.34.40:868][689]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.078
+[2020.06.16-23.34.40:869][689]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/UI/LeagueGothic-CondensedItalic] ([1] browsable assets)...
+[2020.06.16-23.34.40:869][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/UI/LeagueGothic-CondensedItalic]
+[2020.06.16-23.34.40:872][689]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/LeagueGothic-CondensedItalic_Aut56E9B0A748EF1A1A47C613AC4A5E6947.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Assets/UI/LeagueGothic-CondensedItalic_Auto9.uasset'
+[2020.06.16-23.34.40:872][689]LogFileHelpers: Auto-saving content packages took 0.004
+[2020.06.16-23.36.16:688][472]LogSlate: Took 0.001297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.16-23.37.19:671][953]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts' is outside repository
+[2020.06.16-23.37.27:612][272]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts' is outside repository
+[2020.06.16-23.37.31:404][595]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts' is outside repository
+[2020.06.16-23.37.42:056][606]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts' is outside repository
+[2020.06.16-23.37.46:135][940]LogSlate: Warning: FSlateFontInfo property 'Font.FontObject' on object '/Engine/Transient.World_18:MainMenu_C_37.WidgetTree_0.TextBlock_51' was set to use a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2020.06.16-23.37.46:140][940]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2020.06.16-23.37.46:169][940]LogSlate: Took 0.026080 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.06.16-23.38.10:112][465]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts' is outside repository
+[2020.06.16-23.38.15:810][954]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts' is outside repository
+[2020.06.16-23.38.18:107][183]LogAssetEditorSubsystem: Opening Asset editor for FontFace /Game/Assets/UI/LeagueGothic-CondensedItalic.LeagueGothic-CondensedItalic
+[2020.06.16-23.38.22:530][392]LogSlate: Window 'LeagueGothic-CondensedItalic' being destroyed
+[2020.06.16-23.38.25:485][632]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts' is outside repository
+[2020.06.16-23.38.45:077][127]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2020.06.16-23.38.49:145][127]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.16-23.38.49:429][127]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.06.16-23.38.54:867][207]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 ../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/UE4Assets/PinballAssets/PinballAssets/LeagueGothicFont/LeagueGothic-CondensedItalic.otf)
+[2020.06.16-23.38.56:510][207]LogSlate: Window 'Font Face Import Options' being destroyed
+[2020.06.16-23.38.56:523][207]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.06.16-23.38.56:526][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.16-23.38.56:533][207]LogSlate: Took 0.001303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.16-23.38.56:569][207]LogSlate: Took 0.002590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.16-23.38.56:571][207]LogSlate: Took 0.001095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.16-23.38.56:582][207]LogSlate: Took 0.001019 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.16-23.38.56:595][207]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.16-23.38.58:268][392]LogSlate: Took 0.001115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.16-23.38.58:288][393]LogSlate: Took 0.002110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.16-23.38.59:238][488]LogSlate: Took 0.002906 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.06.16-23.39.01:901][698]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts' is outside repository
+[2020.06.16-23.41.29:926][848]BlueprintLog: New page: Compile MainMenu
+[2020.06.16-23.41.30:008][848]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2020.06.16-23.41.31:449][929]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/MainMenu806FA0204BD73E86255476B4A3DEF188.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/MainMenu.uasset'
+[2020.06.16-23.41.31:467][929]AssetCheck: New page: Asset Save: MainMenu
+[2020.06.16-23.41.31:467][929]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/MainMenu.MainMenu
+[2020.06.16-23.46.21:390][147]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2020.06.16-23.46.21:392][147]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.196
+[2020.06.16-23.46.21:394][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainMenu] ([1] browsable assets)...
+[2020.06.16-23.46.21:394][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainMenu]
+[2020.06.16-23.46.21:455][147]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/MainMenu_Auto04BD7168E4BC7FDD7EA1333934CD6D8D5.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/MainMenu_Auto0.uasset'
+[2020.06.16-23.46.21:457][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/UI/LeagueGothic-CondensedItalic] ([1] browsable assets)...
+[2020.06.16-23.46.21:457][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/UI/LeagueGothic-CondensedItalic]
+[2020.06.16-23.46.21:460][147]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/LeagueGothic-CondensedItalic_Aut44704E23483D78F415CA48B3D5FCE4E0.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Assets/UI/LeagueGothic-CondensedItalic_Auto0.uasset'
+[2020.06.16-23.46.21:461][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/UI/LeagueGothic-CondensedItalic_Font] ([1] browsable assets)...
+[2020.06.16-23.46.21:580][147]OBJ SavePackage:     Rendered thumbnail for [Font /Game/Assets/UI/LeagueGothic-CondensedItalic_Font.LeagueGothic-CondensedItalic_Font]
+[2020.06.16-23.46.21:580][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/UI/LeagueGothic-CondensedItalic_Font]
+[2020.06.16-23.46.21:589][147]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/LeagueGothic-CondensedItalic_Fon6F59B1DD449A7262666A2299D601B03C.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Assets/UI/LeagueGothic-CondensedItalic_Font_Auto0.uasset'
+[2020.06.16-23.46.21:590][147]LogFileHelpers: Auto-saving content packages took 0.196
+[2020.06.16-23.47.06:930][ 74]BlueprintLog: New page: Compile MainMenu
+[2020.06.16-23.47.07:001][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2020.06.16-23.47.07:855][116]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/MainMenu25903CF04C183ACD498B52B381AB8053.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/MainMenu.uasset'
+[2020.06.16-23.47.07:878][116]AssetCheck: New page: Asset Save: MainMenu
+[2020.06.16-23.47.07:878][116]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/MainMenu.MainMenu
+[2020.06.16-23.47.13:248][315]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.16-23.47.13:278][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.47.13:279][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.16-23.47.13:279][315]PIE: New page: PIE session: Main (Jun 17, 2020, 1:47:13 AM)
+[2020.06.16-23.47.13:279][315]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.16-23.47.13:329][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050059s)
+[2020.06.16-23.47.13:331][315]LogAIModule: Creating AISystem for world Main
+[2020.06.16-23.47.13:332][315]LogPlayLevel: PIE: World Init took: (0.002949s)
+[2020.06.16-23.47.13:333][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.053260s)
+[2020.06.16-23.47.13:386][315]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2020.06.16-23.47.13:388][315]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.16-23.47.13:388][315]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.16-23.47.13:388][315]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.16-23.47.13:388][315]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.16-23.47.13:388][315]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.16-23.47.13:388][315]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.16-23.47.13:388][315]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.16-23.47.13:388][315]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.16-23.47.13:389][315]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.16-23.47.13:389][315]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.16-23.47.13:406][315]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.16-23.47.13:406][315]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.16-23.47.13:406][315]LogAudioMixer: Display: Is Default: Yes
+[2020.06.16-23.47.13:406][315]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.16-23.47.13:406][315]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.16-23.47.13:406][315]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.16-23.47.13:406][315]LogAudioMixer: Display: Channel Order:
+[2020.06.16-23.47.13:406][315]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.16-23.47.13:406][315]LogAudioMixer: Display: 1: FrontRight
+[2020.06.16-23.47.13:510][315]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.16-23.47.13:581][315]LogInit: FAudioDevice initialized.
+[2020.06.16-23.47.13:641][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.47.13:642][315]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.16-23.47.13:647][315]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.06.17-00.47.13
+[2020.06.16-23.47.13:647][315]LogWorld: Bringing up level for play took: 0.004704
+[2020.06.16-23.47.13:648][315]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.06.16-23.47.13:655][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.47.13:659][315]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.197
+[2020.06.16-23.47.13:660][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.47.13:662][315]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01'.
+[2020.06.16-23.47.33:168][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.47.33:186][778]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.16-23.47.33:206][778]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.16-23.47.33:206][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.47.33:206][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.47.33:207][778]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.16-23.47.33:225][778]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.16-23.47.33:229][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.47.33:230][778]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.16-23.47.33:231][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.16-23.47.33:240][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.16-23.47.33:240][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.47.33:251][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.16-23.47.33:510][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.47.33:521][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.06.16-23.47.33:532][779]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.06.16-23.48.36:132][896]BlueprintLog: New page: Compile MainMenu
+[2020.06.16-23.48.36:212][896]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.06.16-23.48.37:043][928]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/MainMenuC89B48224E2EF9E1403691A93CA8746E.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/MainMenu.uasset'
+[2020.06.16-23.48.37:060][928]AssetCheck: New page: Asset Save: MainMenu
+[2020.06.16-23.48.37:060][928]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/MainMenu.MainMenu
+[2020.06.16-23.48.51:007][ 75]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.16-23.48.51:033][ 75]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.48.51:033][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.16-23.48.51:033][ 75]PIE: New page: PIE session: Main (Jun 17, 2020, 1:48:51 AM)
+[2020.06.16-23.48.51:033][ 75]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.16-23.48.51:047][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013953s)
+[2020.06.16-23.48.51:051][ 75]LogAIModule: Creating AISystem for world Main
+[2020.06.16-23.48.51:051][ 75]LogPlayLevel: PIE: World Init took: (0.003650s)
+[2020.06.16-23.48.51:051][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.017759s)
+[2020.06.16-23.48.51:153][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.06.16-23.48.51:157][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.16-23.48.51:157][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.16-23.48.51:157][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.16-23.48.51:157][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.16-23.48.51:157][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.16-23.48.51:157][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.16-23.48.51:157][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.16-23.48.51:157][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.16-23.48.51:158][ 75]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.16-23.48.51:158][ 75]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.16-23.48.51:172][ 75]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.16-23.48.51:172][ 75]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.16-23.48.51:172][ 75]LogAudioMixer: Display: Is Default: Yes
+[2020.06.16-23.48.51:172][ 75]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.16-23.48.51:172][ 75]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.16-23.48.51:172][ 75]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.16-23.48.51:172][ 75]LogAudioMixer: Display: Channel Order:
+[2020.06.16-23.48.51:172][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.16-23.48.51:172][ 75]LogAudioMixer: Display: 1: FrontRight
+[2020.06.16-23.48.51:282][ 75]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.16-23.48.51:292][ 75]LogInit: FAudioDevice initialized.
+[2020.06.16-23.48.51:337][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.48.51:337][ 75]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.16-23.48.51:341][ 75]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.06.17-00.48.51
+[2020.06.16-23.48.51:341][ 75]LogWorld: Bringing up level for play took: 0.002947
+[2020.06.16-23.48.51:341][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2020.06.16-23.48.51:345][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.48.51:348][ 75]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.885
+[2020.06.16-23.48.51:357][ 75]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.48.51:362][ 75]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01'.
+[2020.06.16-23.48.56:863][387]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.48.56:876][387]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.16-23.48.56:905][387]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.16-23.48.56:905][387]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.48.56:906][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.48.56:906][387]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.16-23.48.56:922][387]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.16-23.48.56:929][387]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.48.56:929][387]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.16-23.48.56:930][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.16-23.48.56:942][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.16-23.48.56:943][387]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.48.56:951][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.16-23.48.57:003][387]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.48.57:016][387]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.06.16-23.48.57:041][388]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.06.16-23.50.00:227][944]BlueprintLog: New page: Compile MainMenu
+[2020.06.16-23.50.00:296][944]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2020.06.16-23.50.01:824][ 27]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.16-23.50.01:851][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.50.01:851][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.16-23.50.01:851][ 27]PIE: New page: PIE session: Main (Jun 17, 2020, 1:50:01 AM)
+[2020.06.16-23.50.01:851][ 27]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.16-23.50.01:864][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012831s)
+[2020.06.16-23.50.01:865][ 27]LogAIModule: Creating AISystem for world Main
+[2020.06.16-23.50.01:865][ 27]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2020.06.16-23.50.01:865][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.014119s)
+[2020.06.16-23.50.01:915][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.06.16-23.50.01:919][ 27]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.16-23.50.01:919][ 27]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.16-23.50.01:919][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.16-23.50.01:919][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.16-23.50.01:919][ 27]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.16-23.50.01:919][ 27]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.16-23.50.01:919][ 27]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.16-23.50.01:919][ 27]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.16-23.50.01:919][ 27]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.16-23.50.01:920][ 27]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.16-23.50.01:933][ 27]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.16-23.50.01:933][ 27]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.16-23.50.01:933][ 27]LogAudioMixer: Display: Is Default: Yes
+[2020.06.16-23.50.01:933][ 27]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.16-23.50.01:933][ 27]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.16-23.50.01:933][ 27]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.16-23.50.01:933][ 27]LogAudioMixer: Display: Channel Order:
+[2020.06.16-23.50.01:933][ 27]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.16-23.50.01:933][ 27]LogAudioMixer: Display: 1: FrontRight
+[2020.06.16-23.50.02:033][ 27]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.16-23.50.02:037][ 27]LogInit: FAudioDevice initialized.
+[2020.06.16-23.50.02:100][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.50.02:100][ 27]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.16-23.50.02:104][ 27]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.06.17-00.50.02
+[2020.06.16-23.50.02:105][ 27]LogWorld: Bringing up level for play took: 0.003530
+[2020.06.16-23.50.02:105][ 27]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.06.16-23.50.02:108][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.50.02:112][ 27]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.35
+[2020.06.16-23.50.02:112][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.50.02:113][ 27]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01'.
+[2020.06.16-23.50.04:357][152]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.50.04:366][152]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.16-23.50.04:386][152]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.16-23.50.04:386][152]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.50.04:386][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.50.04:386][152]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.16-23.50.04:402][152]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.16-23.50.04:408][152]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.50.04:408][152]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.16-23.50.04:409][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.16-23.50.04:422][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.16-23.50.04:422][152]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.50.04:429][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.16-23.50.04:481][152]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.50.04:497][152]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.06.16-23.50.04:511][153]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.06.16-23.50.10:388][485]BlueprintLog: New page: Compile MainMenu
+[2020.06.16-23.50.10:446][485]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.06.16-23.50.11:697][553]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.16-23.50.11:724][553]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.50.11:724][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.16-23.50.11:724][553]PIE: New page: PIE session: Main (Jun 17, 2020, 1:50:11 AM)
+[2020.06.16-23.50.11:724][553]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.16-23.50.11:737][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012510s)
+[2020.06.16-23.50.11:737][553]LogAIModule: Creating AISystem for world Main
+[2020.06.16-23.50.11:738][553]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2020.06.16-23.50.11:738][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.013651s)
+[2020.06.16-23.50.11:785][553]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.06.16-23.50.11:787][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.16-23.50.11:787][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.16-23.50.11:787][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.16-23.50.11:787][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.16-23.50.11:787][553]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.16-23.50.11:787][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.16-23.50.11:787][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.16-23.50.11:787][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.16-23.50.11:788][553]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.16-23.50.11:788][553]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.16-23.50.11:803][553]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.16-23.50.11:803][553]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.16-23.50.11:803][553]LogAudioMixer: Display: Is Default: Yes
+[2020.06.16-23.50.11:803][553]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.16-23.50.11:803][553]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.16-23.50.11:803][553]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.16-23.50.11:803][553]LogAudioMixer: Display: Channel Order:
+[2020.06.16-23.50.11:803][553]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.16-23.50.11:803][553]LogAudioMixer: Display: 1: FrontRight
+[2020.06.16-23.50.11:923][553]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.16-23.50.11:926][553]LogInit: FAudioDevice initialized.
+[2020.06.16-23.50.11:980][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.50.11:980][553]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.16-23.50.11:984][553]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.06.17-00.50.11
+[2020.06.16-23.50.11:985][553]LogWorld: Bringing up level for play took: 0.003717
+[2020.06.16-23.50.11:985][553]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.06.16-23.50.11:992][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.50.11:995][553]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.468
+[2020.06.16-23.50.11:995][553]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.50.11:996][553]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01'.
+[2020.06.16-23.50.24:689][289]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.50.24:697][289]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.16-23.50.24:716][289]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.16-23.50.24:716][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.50.24:717][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.50.24:717][289]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.16-23.50.24:731][289]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.16-23.50.24:734][289]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.50.24:734][289]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.16-23.50.24:735][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.16-23.50.24:742][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.16-23.50.24:742][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.50.24:749][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.16-23.50.24:797][289]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.50.24:811][289]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.06.16-23.50.24:907][290]LogPlayLevel: Display: Destroying online subsystem :Context_40
