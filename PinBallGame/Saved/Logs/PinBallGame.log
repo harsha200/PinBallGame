@@ -5903,3 +5903,501 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.16-23.50.24:797][289]LogAudioMixer: Display: No commands were queued while flushing the source manager.
 [2020.06.16-23.50.24:811][289]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
 [2020.06.16-23.50.24:907][290]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.06.16-23.52.04:135][332]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/HighScoreWidget.HighScoreWidget
+[2020.06.16-23.52.42:369][893]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts' is outside repository
+[2020.06.16-23.53.12:797][455]BlueprintLog: New page: Compile HighScoreWidget
+[2020.06.16-23.53.14:209][455]LogUObjectHash: Compacting FUObjectHashTables data took   8.13ms
+[2020.06.16-23.53.15:104][489]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreWidget62597945458690CFF4D12C8A91DD4B08.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/HighScoreWidget.uasset'
+[2020.06.16-23.53.15:122][489]AssetCheck: New page: Asset Save: HighScoreWidget
+[2020.06.16-23.53.15:123][489]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HighScoreWidget.HighScoreWidget
+[2020.06.16-23.54.47:884][874]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.47:884][874]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.47:903][875]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.47:903][875]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.47:917][876]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.47:917][876]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.47:931][877]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.47:931][877]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.47:947][878]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.47:947][878]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.47:962][879]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.47:962][879]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.47:979][880]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.47:979][880]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.47:996][881]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.47:996][881]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:013][882]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:013][882]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:029][883]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:029][883]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:046][884]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:046][884]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:062][885]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:062][885]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:079][886]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:079][886]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:096][887]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:096][887]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:113][888]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:113][888]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:133][889]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:134][889]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:159][890]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:159][890]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:177][891]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:177][891]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:204][892]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:204][892]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:215][893]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:215][893]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:236][894]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:236][894]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:251][895]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:251][895]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:266][896]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:266][896]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:283][897]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:283][897]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:310][898]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:310][898]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:320][899]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:320][899]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:337][900]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:337][900]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:368][901]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:368][901]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:380][902]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:380][902]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:403][903]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:403][903]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:419][904]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:419][904]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:437][905]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:437][905]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:461][906]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:461][906]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:477][907]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:477][907]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:503][908]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:503][908]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:515][909]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:515][909]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:535][910]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:535][910]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:551][911]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:551][911]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:569][912]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:569][912]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:586][913]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:587][913]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:607][914]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:607][914]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:637][915]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:637][915]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:648][916]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:648][916]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:669][917]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:669][917]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:694][918]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:694][918]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:719][919]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:720][919]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:735][920]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:735][920]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:750][921]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:750][921]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:779][922]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:779][922]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:792][923]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:792][923]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:811][924]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:811][924]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:829][925]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:829][925]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:845][926]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:846][926]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.48:863][927]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.16-23.54.48:863][927]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.16-23.54.49:425][955]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts' is outside repository
+[2020.06.16-23.57.07:802][840]BlueprintLog: New page: Compile HighScoreWidget
+[2020.06.16-23.57.08:179][840]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2020.06.16-23.57.08:911][863]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreWidgetED1D900E4B4E03E37D9BB2B38CBCFC5E.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/HighScoreWidget.uasset'
+[2020.06.16-23.57.08:928][863]AssetCheck: New page: Asset Save: HighScoreWidget
+[2020.06.16-23.57.08:928][863]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HighScoreWidget.HighScoreWidget
+[2020.06.16-23.57.18:633][986]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.16-23.57.18:665][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.57.18:665][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.16-23.57.18:665][986]PIE: New page: PIE session: Main (Jun 17, 2020, 1:57:18 AM)
+[2020.06.16-23.57.18:665][986]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.16-23.57.18:680][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014427s)
+[2020.06.16-23.57.18:681][986]LogAIModule: Creating AISystem for world Main
+[2020.06.16-23.57.18:681][986]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2020.06.16-23.57.18:681][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.015829s)
+[2020.06.16-23.57.18:738][986]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2020.06.16-23.57.18:739][986]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.16-23.57.18:739][986]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.16-23.57.18:739][986]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.16-23.57.18:739][986]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.16-23.57.18:739][986]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.16-23.57.18:739][986]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.16-23.57.18:739][986]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.16-23.57.18:739][986]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.16-23.57.18:740][986]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.16-23.57.18:740][986]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.16-23.57.18:756][986]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.16-23.57.18:756][986]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.16-23.57.18:756][986]LogAudioMixer: Display: Is Default: Yes
+[2020.06.16-23.57.18:756][986]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.16-23.57.18:756][986]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.16-23.57.18:756][986]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.16-23.57.18:756][986]LogAudioMixer: Display: Channel Order:
+[2020.06.16-23.57.18:756][986]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.16-23.57.18:756][986]LogAudioMixer: Display: 1: FrontRight
+[2020.06.16-23.57.18:860][986]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.16-23.57.18:909][986]LogInit: FAudioDevice initialized.
+[2020.06.16-23.57.18:964][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.57.18:964][986]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.16-23.57.18:968][986]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.06.17-00.57.18
+[2020.06.16-23.57.18:968][986]LogWorld: Bringing up level for play took: 0.003034
+[2020.06.16-23.57.18:968][986]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.06.16-23.57.18:972][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.57.18:975][986]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.513
+[2020.06.16-23.57.18:976][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.57.18:977][986]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01'.
+[2020.06.16-23.57.21:217][107]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.57.21:235][107]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.16-23.57.21:255][107]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.16-23.57.21:255][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.57.21:255][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.16-23.57.21:255][107]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.16-23.57.21:273][107]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.16-23.57.21:278][107]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.57.21:279][107]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.16-23.57.21:280][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.16-23.57.21:288][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.16-23.57.21:288][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.16-23.57.21:297][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.16-23.57.21:363][107]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.16-23.57.21:376][107]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.06.16-23.57.21:399][108]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.06.16-23.58.02:656][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.06.16-23.58.02:657][408]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.052
+[2020.06.16-23.58.02:658][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainMenu] ([1] browsable assets)...
+[2020.06.16-23.58.02:658][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainMenu]
+[2020.06.16-23.58.02:745][408]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/MainMenu_Auto18ABD99A748FA98B30892638B9B846E55.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/MainMenu_Auto1.uasset'
+[2020.06.16-23.58.02:747][408]LogFileHelpers: Auto-saving content packages took 0.089
+[2020.06.17-00.00.31:006][778]BlueprintLog: New page: Compile MainMenu
+[2020.06.17-00.00.31:079][778]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2020.06.17-00.00.31:866][800]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/MainMenu54838FAA47D38C085DAF21B420CE8779.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/MainMenu.uasset'
+[2020.06.17-00.00.31:881][800]AssetCheck: New page: Asset Save: MainMenu
+[2020.06.17-00.00.31:881][800]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/MainMenu.MainMenu
+[2020.06.17-00.00.32:957][861]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.17-00.00.32:989][861]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.17-00.00.32:989][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.17-00.00.32:989][861]PIE: New page: PIE session: Main (Jun 17, 2020, 2:00:32 AM)
+[2020.06.17-00.00.33:095][861]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.17-00.00.33:110][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015273s)
+[2020.06.17-00.00.33:111][861]LogAIModule: Creating AISystem for world Main
+[2020.06.17-00.00.33:111][861]LogPlayLevel: PIE: World Init took: (0.001483s)
+[2020.06.17-00.00.33:112][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.017005s)
+[2020.06.17-00.00.33:168][861]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2020.06.17-00.00.33:173][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.17-00.00.33:173][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.17-00.00.33:173][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.17-00.00.33:173][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.17-00.00.33:173][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.17-00.00.33:173][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.17-00.00.33:173][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.17-00.00.33:173][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.17-00.00.33:173][861]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.17-00.00.33:173][861]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.17-00.00.33:189][861]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.17-00.00.33:189][861]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.17-00.00.33:189][861]LogAudioMixer: Display: Is Default: Yes
+[2020.06.17-00.00.33:189][861]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.17-00.00.33:189][861]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.17-00.00.33:189][861]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.17-00.00.33:189][861]LogAudioMixer: Display: Channel Order:
+[2020.06.17-00.00.33:189][861]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.17-00.00.33:189][861]LogAudioMixer: Display: 1: FrontRight
+[2020.06.17-00.00.33:292][861]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.17-00.00.33:307][861]LogInit: FAudioDevice initialized.
+[2020.06.17-00.00.33:367][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-00.00.33:367][861]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.17-00.00.33:371][861]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.06.17-01.00.33
+[2020.06.17-00.00.33:371][861]LogWorld: Bringing up level for play took: 0.002961
+[2020.06.17-00.00.33:371][861]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.06.17-00.00.33:374][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-00.00.33:378][861]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.916
+[2020.06.17-00.00.33:378][861]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.17-00.00.33:379][861]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01'.
+[2020.06.17-00.00.37:340][ 88]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.17-00.00.37:345][ 88]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.17-00.00.37:365][ 88]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.17-00.00.37:365][ 88]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.17-00.00.37:366][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-00.00.37:366][ 88]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.17-00.00.37:381][ 88]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.17-00.00.37:386][ 88]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.17-00.00.37:386][ 88]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-00.00.37:387][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.17-00.00.37:400][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.17-00.00.37:400][ 88]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.17-00.00.37:410][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.17-00.00.37:493][ 88]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.17-00.00.37:513][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2020.06.17-00.00.37:537][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.06.17-00.05.00:255][438]BlueprintLog: New page: Compile HighScoreWidget
+[2020.06.17-00.05.00:667][438]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2020.06.17-00.05.01:175][445]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreWidget07323E08494B6C49B4974BACD679BD71.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/HighScoreWidget.uasset'
+[2020.06.17-00.05.01:194][445]AssetCheck: New page: Asset Save: HighScoreWidget
+[2020.06.17-00.05.01:194][445]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HighScoreWidget.HighScoreWidget
+[2020.06.17-00.05.08:690][569]BlueprintLog: New page: Compile HighScoreWidget
+[2020.06.17-00.05.09:099][569]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2020.06.17-00.05.09:882][594]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreWidgetFB694F6D4FBD5F78FE5C4CA0914D4508.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/HighScoreWidget.uasset'
+[2020.06.17-00.05.09:898][594]AssetCheck: New page: Asset Save: HighScoreWidget
+[2020.06.17-00.05.09:898][594]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HighScoreWidget.HighScoreWidget
+[2020.06.17-00.05.11:623][695]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.17-00.05.11:654][695]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.17-00.05.11:654][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.17-00.05.11:655][695]PIE: New page: PIE session: Main (Jun 17, 2020, 2:05:11 AM)
+[2020.06.17-00.05.11:748][695]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.17-00.05.11:762][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014027s)
+[2020.06.17-00.05.11:763][695]LogAIModule: Creating AISystem for world Main
+[2020.06.17-00.05.11:764][695]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2020.06.17-00.05.11:764][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.015480s)
+[2020.06.17-00.05.11:820][695]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2020.06.17-00.05.11:824][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.17-00.05.11:824][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.17-00.05.11:824][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.17-00.05.11:824][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.17-00.05.11:824][695]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.17-00.05.11:824][695]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.17-00.05.11:824][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.17-00.05.11:824][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.17-00.05.11:825][695]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.17-00.05.11:825][695]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.17-00.05.11:842][695]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.17-00.05.11:842][695]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.17-00.05.11:842][695]LogAudioMixer: Display: Is Default: Yes
+[2020.06.17-00.05.11:842][695]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.17-00.05.11:842][695]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.17-00.05.11:842][695]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.17-00.05.11:842][695]LogAudioMixer: Display: Channel Order:
+[2020.06.17-00.05.11:842][695]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.17-00.05.11:842][695]LogAudioMixer: Display: 1: FrontRight
+[2020.06.17-00.05.11:943][695]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.17-00.05.11:951][695]LogInit: FAudioDevice initialized.
+[2020.06.17-00.05.11:997][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-00.05.11:998][695]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.17-00.05.12:002][695]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.06.17-01.05.12
+[2020.06.17-00.05.12:002][695]LogWorld: Bringing up level for play took: 0.003620
+[2020.06.17-00.05.12:002][695]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.06.17-00.05.12:006][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-00.05.12:010][695]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.452
+[2020.06.17-00.05.12:010][695]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.17-00.05.12:012][695]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01'.
+[2020.06.17-00.05.21:923][262]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.17-00.05.21:936][262]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.17-00.05.21:955][262]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.17-00.05.21:955][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.17-00.05.21:955][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-00.05.21:955][262]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.17-00.05.21:971][262]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.17-00.05.21:976][262]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.17-00.05.21:976][262]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-00.05.21:977][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.17-00.05.21:991][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.17-00.05.21:991][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.17-00.05.22:001][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.17-00.05.22:068][262]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.17-00.05.22:079][262]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.06.17-00.05.22:096][263]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.06.17-00.06.02:624][554]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/HighScoreEntry.HighScoreEntry
+[2020.06.17-00.08.06:226][ 98]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:226][ 98]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:243][ 99]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:243][ 99]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:259][100]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:260][100]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:272][101]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:272][101]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:288][102]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:289][102]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:305][103]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:305][103]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:322][104]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:322][104]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:338][105]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:338][105]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:355][106]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:355][106]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:371][107]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:372][107]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:388][108]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:388][108]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:405][109]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:405][109]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:422][110]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:422][110]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:439][111]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:439][111]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:455][112]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:455][112]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:472][113]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:472][113]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:489][114]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:489][114]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:505][115]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:505][115]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:522][116]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:522][116]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:549][117]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:549][117]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:565][118]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:565][118]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:589][119]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:589][119]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:603][120]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:603][120]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:661][121]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:661][121]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:709][122]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:710][122]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:729][123]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:730][123]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:746][124]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:747][124]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:777][125]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:777][125]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:790][126]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:790][126]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:828][127]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:828][127]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:840][128]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:840][128]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:861][129]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:861][129]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:879][130]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:879][130]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:895][131]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:895][131]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:913][132]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:913][132]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:930][133]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:930][133]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:948][134]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:948][134]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:964][135]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:964][135]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:981][136]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:981][136]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.06:998][137]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.06:998][137]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:018][138]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:018][138]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:050][139]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:050][139]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:065][140]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:065][140]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:086][141]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:086][141]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:106][142]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:106][142]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:129][143]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:129][143]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:146][144]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:146][144]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:161][145]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:161][145]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:177][146]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:177][146]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:193][147]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:193][147]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:211][148]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:211][148]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:227][149]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:227][149]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:248][150]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:248][150]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:263][151]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:264][151]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:280][152]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:280][152]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:307][153]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:307][153]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:328][154]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.PinBallGameMode_C:Score
+[2020.06.17-00.08.07:328][154]LogUObjectHash: Warning: Ambiguous search, could be FloatProperty /Script/Engine.PlayerState:Score or FloatProperty /Game/Blueprints/PinBallGameMode.SKEL_PinBallGameMode_C:Score
+[2020.06.17-00.08.07:951][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineFonts' is outside repository
+[2020.06.17-00.08.52:646][299]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2020.06.17-00.08.52:648][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.064
+[2020.06.17-00.08.52:648][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighScoreEntry] ([1] browsable assets)...
+[2020.06.17-00.08.52:648][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreEntry]
+[2020.06.17-00.08.52:699][299]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreEntry_Auto2BE13293D4C65B76EF91F609373AB8B64.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/Autosaves/Game/Blueprints/HighScoreEntry_Auto2.uasset'
+[2020.06.17-00.08.52:700][299]LogFileHelpers: Auto-saving content packages took 0.052
+[2020.06.17-00.11.33:411][891]BlueprintLog: New page: Compile HighScoreEntry
+[2020.06.17-00.11.33:493][891]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2020.06.17-00.11.34:331][915]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreEntryA50D24F64424AD42F397278935C3C26B.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/HighScoreEntry.uasset'
+[2020.06.17-00.11.34:355][915]AssetCheck: New page: Asset Save: HighScoreEntry
+[2020.06.17-00.11.34:355][915]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HighScoreEntry.HighScoreEntry
+[2020.06.17-00.14.34:658][601]BlueprintLog: New page: Compile HighScoreEntry
+[2020.06.17-00.14.34:776][601]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2020.06.17-00.14.35:580][626]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Saved/HighScoreEntry6553070C4A92418B5184CD8EFF33629E.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Unreal Cinematics/PinBall Game/PinBallGame/Content/Blueprints/HighScoreEntry.uasset'
+[2020.06.17-00.14.35:596][626]AssetCheck: New page: Asset Save: HighScoreEntry
+[2020.06.17-00.14.35:596][626]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HighScoreEntry.HighScoreEntry
+[2020.06.17-00.15.44:089][343]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.17-00.15.44:128][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.17-00.15.44:128][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.17-00.15.44:129][343]PIE: New page: PIE session: Main (Jun 17, 2020, 2:15:44 AM)
+[2020.06.17-00.15.44:133][343]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2020.06.17-00.15.44:149][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015520s)
+[2020.06.17-00.15.44:151][343]LogAIModule: Creating AISystem for world Main
+[2020.06.17-00.15.44:152][343]LogPlayLevel: PIE: World Init took: (0.003132s)
+[2020.06.17-00.15.44:152][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.018892s)
+[2020.06.17-00.15.44:208][343]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2020.06.17-00.15.44:210][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.17-00.15.44:210][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.17-00.15.44:210][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.17-00.15.44:210][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.17-00.15.44:210][343]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.17-00.15.44:210][343]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.17-00.15.44:210][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.17-00.15.44:210][343]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.17-00.15.44:212][343]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.17-00.15.44:212][343]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.17-00.15.44:272][343]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.17-00.15.44:272][343]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.06.17-00.15.44:272][343]LogAudioMixer: Display: Is Default: Yes
+[2020.06.17-00.15.44:272][343]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.17-00.15.44:272][343]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.17-00.15.44:272][343]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.17-00.15.44:272][343]LogAudioMixer: Display: Channel Order:
+[2020.06.17-00.15.44:272][343]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.17-00.15.44:272][343]LogAudioMixer: Display: 1: FrontRight
+[2020.06.17-00.15.44:417][343]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.06.17-00.15.44:426][343]LogInit: FAudioDevice initialized.
+[2020.06.17-00.15.44:480][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-00.15.44:481][343]LogLoad: Game class is 'PinBallGameMode_C'
+[2020.06.17-00.15.44:485][343]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.06.17-01.15.44
+[2020.06.17-00.15.44:486][343]LogWorld: Bringing up level for play took: 0.004062
+[2020.06.17-00.15.44:486][343]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.06.17-00.15.44:489][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-00.15.44:493][343]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.031
+[2020.06.17-00.15.44:494][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.17-00.15.44:494][343]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01'.
+[2020.06.17-00.15.47:142][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-00.16.02:931][342]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.17-00.16.43:824][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-00.16.49:774][ 73]LogSlate: Window 'PinBallGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.17-00.16.49:780][ 73]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.17-00.16.49:780][ 73]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2020.06.17-00.16.49:793][ 73]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.17-00.16.49:813][ 73]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.17-00.16.49:814][ 73]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-00.16.49:815][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.17-00.16.49:828][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.17-00.16.49:828][ 73]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.17-00.16.49:843][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.17-00.16.49:985][ 73]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.17-00.16.50:000][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2020.06.17-00.16.50:024][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_48
